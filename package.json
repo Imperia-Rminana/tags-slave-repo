@@ -1,7 +1,7 @@
 {
   "name": "tags-slave-repo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Passive release target used to test cross-repository tag automation",
   "homepage": "https://github.com/Imperia-Rminana/tags-slave-repo#readme",
   "bugs": {
     "url": "https://github.com/Imperia-Rminana/tags-slave-repo/issues"
@@ -15,6 +15,6 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test"
   }
 }
