@@ -14,3 +14,5 @@ git push origin main release/1.0 boost/demo/1.0
 
 The Master workflow checks out the selected commit on its own runner and executes
 `npm ci` followed by `npm test`.
+
+release 2.0
